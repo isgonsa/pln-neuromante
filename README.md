@@ -46,4 +46,4 @@ Las gráficas muestran una proyección PCA, no el espacio completo: cercanía en
 
 ## Distribución
 
-El código puede revisarse y adaptarse para la tarea. Los derechos de la obra y la traducción corresponden a sus titulares. `data/LEEME.txt` explica cómo generar el TXT local. No se ha creado ni publicado un repositorio de GitHub para esta versión.
+El código puede revisarse y adaptarse para la tarea. Los derechos de la obra y la traducción corresponden a sus titulares. `FUENTE.txt` explica cómo generar el TXT local. Repositorio público: https://github.com/isgonsa/pln-neuromante

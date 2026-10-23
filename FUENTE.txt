@@ -1,0 +1,8 @@
+El corpus se genera localmente con:
+python preparar_texto.py
+
+Se crea data/neuromante_muestra.txt a partir de la muestra oficial de la editorial.
+Para procesarlo:
+python procesar.py
+
+La distribución no incluye una copia extensa del libro.
