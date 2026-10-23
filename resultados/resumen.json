@@ -1,0 +1,38 @@
+{
+  "consulta": "case",
+  "oraciones": 366,
+  "tokens_originales": 6494,
+  "tokens_limpios": 2644,
+  "vocabulario": 1466,
+  "forma_bow": [
+    366,
+    1466
+  ],
+  "forma_tfidf": [
+    366,
+    1466
+  ],
+  "similares_consulta": [
+    [
+      "convenir",
+      0.7562025189399719
+    ],
+    [
+      "sorbo",
+      0.7464888691902161
+    ],
+    [
+      "dios",
+      0.7303117513656616
+    ],
+    [
+      "duermes",
+      0.7103949785232544
+    ],
+    [
+      "andar",
+      0.6899958252906799
+    ]
+  ],
+  "limitacion": "Muestra de una sola obra: similitudes exploratorias, sin validación semántica independiente."
+}
