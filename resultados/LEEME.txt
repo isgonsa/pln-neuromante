@@ -1,0 +1,5 @@
+Resultados ejecutados sobre la muestra oficial de Neuromante.
+366 oraciones, 6494 tokens iniciales, 2644 tokens limpios y 1466 términos.
+BoW y TF-IDF: matrices de 366 x 1466.
+Las gráficas PCA son exploratorias y no demuestran comprensión semántica.
+El corpus local se prepara con python preparar_texto.py; después, python procesar.py.
