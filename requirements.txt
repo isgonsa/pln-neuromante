@@ -1,0 +1,9 @@
+spacy==3.8.16
+gensim==4.4.0
+scikit-learn==1.8.0
+numpy==2.3.5
+scipy==1.17.0
+matplotlib==3.10.8
+es_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.8.0/es_core_news_sm-3.8.0-py3-none-any.whl
+adjustText==1.4.0
+pypdf==6.10.0

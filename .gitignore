@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+data/*.pdf
+data/neuromante_muestra.txt
+resultados/texto_procesado.txt
+resultados/tokens.json
